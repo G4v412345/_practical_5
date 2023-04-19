@@ -1,0 +1,15 @@
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.csproj.AssemblyReference.cache
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.AssemblyInfoInputs.cache
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.AssemblyInfo.cs
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.csproj.CoreCompileInputs.cache
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\bin\Debug\net7.0\practical_5.exe
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\bin\Debug\net7.0\practical_5.deps.json
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\bin\Debug\net7.0\practical_5.runtimeconfig.json
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\bin\Debug\net7.0\practical_5.dll
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\bin\Debug\net7.0\practical_5.pdb
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.dll
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\refint\practical_5.dll
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.pdb
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\practical_5.genruntimeconfig.cache
+C:\Users\Gava\Desktop\УЧЕБА\ООП\ПРАКТИЧНА РОБОТА 5\practical_5\practical_5\obj\Debug\net7.0\ref\practical_5.dll
